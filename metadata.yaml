@@ -1,11 +1,16 @@
 _repo: Allen-s-West-London-Street-Directory-1868_58160
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58160-h/images/cover.jpg
 creator:
   author:
     agent_name: Allen, Samuel
     gutenberg_agent_id: '49798'
     url: http://www.gutenberg.org/2009/agents/49798
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58160#Allen-s-West-London-Street-Directory-1868
 gutenberg_issued: '2018-10-24'
 gutenberg_type: Text
 identifiers:
